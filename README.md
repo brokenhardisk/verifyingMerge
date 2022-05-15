@@ -1,0 +1,2 @@
+# verifyingMerge
+Verifying Git Merge
